@@ -1,4 +1,4 @@
 APA SAJA YANG AKAN DI LAKUKAN KEDEPANNNYA
 - Dapat memehamai html,css,javaScript
-- Dapat memahami bootstrap
 - Dapat memahami Reactjs
+- Dapat memahami php
